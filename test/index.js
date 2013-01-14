@@ -1,5 +1,5 @@
 
-var Compressor = require('../../node-document-compressor');
+var Compressor = require('node-document-compressor');
 
 module.exports = Compressor.Spec('Snappy', {
   module: require('..'),

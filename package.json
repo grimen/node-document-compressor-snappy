@@ -39,7 +39,7 @@
   "dependencies": {
     "funargs": "latest",
     "sugar": "latest",
-    "node-document-compressor": "0.1.0-pre1",
+    "node-document-compressor": "0.1.0-pre2",
     "snappy": "latest"
   },
   "devDependencies": {
